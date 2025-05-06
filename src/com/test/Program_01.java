@@ -9,7 +9,7 @@ public class Program_01 {
 		System.out.println("Hello World!");
 		System.out.println("Enter Number : ");
 		int n = scan.nextInt();
-		System.out.println("square"+n*n);
+		System.out.println("square of "+n+"is : "+ (n*n));
 	}
 
 }
